@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.scrollhide::-webkit-scrollbar{
+  display: none;
+}
+
+body{
+  background-color: rgba(248, 211, 211, 0.675);
+}
